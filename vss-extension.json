@@ -19,6 +19,9 @@
             "path": "LICENSE"
         }
     },
+    "icons": {
+        "default": "img/extension-icon.webp"        
+    },
     "categories": ["Azure Pipelines"],
     "targets": [
         {
