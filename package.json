@@ -1,0 +1,27 @@
+{
+  "name": "onduty",
+  "version": "1.0.0",
+  "description": "**Description**:  Azure DevOps Extension for interacting with PagerDuty on pipelines.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagorider/OnDuty.git"
+  },
+  "keywords": [],
+  "author": "Thiago Rider Augusto <thiago.rider@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagorider/OnDuty/issues"
+  },
+  "homepage": "https://github.com/thiagorider/OnDuty#readme",
+  "dependencies": {
+    "@pagerduty/pdjs": "^2.2.4",
+    "vss-web-extension-sdk": "^5.141.0"
+  }
+}
