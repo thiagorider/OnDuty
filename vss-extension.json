@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "OnDuty",
     "publisher": "ThiagoRiderAugusto",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "name": "OnDuty Alerting and Events",
     "description": "Azure DevOps Extension for interacting with PagerDuty on pipelines",
     "public": true,
