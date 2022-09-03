@@ -20,7 +20,7 @@
         }
     },
     "icons": {
-        "default": "img/extension-icon.webp"        
+        "default": "img/extension-icon.jpg"        
     },
     "categories": ["Azure Pipelines"],
     "targets": [
