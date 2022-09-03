@@ -42,10 +42,6 @@
     ],
     "files": [
         {
-            "path": "my-hub.html",
-            "addressable": true
-        },
-        {
             "path": "node_modules/vss-web-extension-sdk/lib",
             "addressable": true,
             "packagePath": "lib"
