@@ -11,6 +11,14 @@
         "Incident",
         "Alerting"
     ],
+    "content": {
+        "details": {
+            "path": "README.md"
+        },
+        "license": {
+            "path": "LICENSE.md"
+        }
+    },
     "categories": ["Azure Pipelines"],
     "targets": [
         {
