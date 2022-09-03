@@ -5,7 +5,7 @@
     "version": "0.0.1",
     "name": "OnDuty Alerting and Events",
     "description": "Azure DevOps Extension for interacting with PagerDuty on pipelines",
-    "public": false,
+    "public": true,
     "tags": [
         "PagerDuty",
         "Incident",
