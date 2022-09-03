@@ -22,7 +22,6 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 Please delete options that are not relevant.
 
 **Test Configuration**:
-* Firmware version:
 * Hardware:
 * Toolchain:
 * SDK:
