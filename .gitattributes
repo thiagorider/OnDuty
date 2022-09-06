@@ -3,6 +3,10 @@
 # Auto detect text files and perform LF normalization
 *          text=auto
 
+# Recognize OnDuty dir as non-doc files
+OnDuty/* linguist-documentation=false
+
+
 #
 # The above will handle all files NOT found below
 #
