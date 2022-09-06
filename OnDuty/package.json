@@ -1,0 +1,22 @@
+{
+  "name": "onduty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thiago Rider Augusto <thiago.rider@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@pagerduty/pdjs": "^2.2.4",
+    "azure-pipelines-task-lib": "^4.0.0-preview"
+  },
+  "devDependencies": {
+    "@types/mocha": "^9.1.1",
+    "@types/node": "^18.7.14",
+    "@types/q": "^1.5.5",
+    "sync-request": "^6.1.0"
+  }
+}
